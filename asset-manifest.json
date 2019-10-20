@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/project2/static/css/main.b100e6da.chunk.css",
-    "main.js": "/project2/static/js/main.e620801d.chunk.js",
-    "main.js.map": "/project2/static/js/main.e620801d.chunk.js.map",
+    "main.css": "/project2/static/css/main.219335af.chunk.css",
+    "main.js": "/project2/static/js/main.e114854b.chunk.js",
+    "main.js.map": "/project2/static/js/main.e114854b.chunk.js.map",
     "runtime-main.js": "/project2/static/js/runtime-main.24d41b04.js",
     "runtime-main.js.map": "/project2/static/js/runtime-main.24d41b04.js.map",
-    "static/js/2.62c99d41.chunk.js": "/project2/static/js/2.62c99d41.chunk.js",
-    "static/js/2.62c99d41.chunk.js.map": "/project2/static/js/2.62c99d41.chunk.js.map",
+    "static/js/2.5d913bae.chunk.js": "/project2/static/js/2.5d913bae.chunk.js",
+    "static/js/2.5d913bae.chunk.js.map": "/project2/static/js/2.5d913bae.chunk.js.map",
     "index.html": "/project2/index.html",
-    "precache-manifest.029544c1170c9d868c15799a7c8a14a0.js": "/project2/precache-manifest.029544c1170c9d868c15799a7c8a14a0.js",
+    "precache-manifest.973f1dbdbeea4b071818824f51de3fd4.js": "/project2/precache-manifest.973f1dbdbeea4b071818824f51de3fd4.js",
     "service-worker.js": "/project2/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/project2/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/project2/static/media/logo.25bf045c.svg"
+    "static/css/main.219335af.chunk.css.map": "/project2/static/css/main.219335af.chunk.css.map",
+    "static/media/MyLogo.png": "/project2/static/media/MyLogo.1123e6a4.png",
+    "static/media/gif_1.gif": "/project2/static/media/gif_1.e384973a.gif",
+    "static/media/gif_2.gif": "/project2/static/media/gif_2.5275c483.gif",
+    "static/media/gif_3.gif": "/project2/static/media/gif_3.39724141.gif",
+    "static/media/gif_4.gif": "/project2/static/media/gif_4.bc72bddc.gif",
+    "static/media/index.css": "/project2/static/media/honeyBg.faf4102d.jpg",
+    "static/media/honey_1.jpg": "/project2/static/media/honey_1.bea36ec7.jpg",
+    "static/media/honey_2.jpg": "/project2/static/media/honey_2.9b757d14.jpg",
+    "static/media/honey_3.jpg": "/project2/static/media/honey_3.96a9e1dc.jpg",
+    "static/media/honey_4.jpg": "/project2/static/media/honey_4.3a627ccc.jpg",
+    "static/media/honey_5.jpg": "/project2/static/media/honey_5.2e4aca20.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.24d41b04.js",
-    "static/js/2.62c99d41.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.e620801d.chunk.js"
+    "static/js/2.5d913bae.chunk.js",
+    "static/css/main.219335af.chunk.css",
+    "static/js/main.e114854b.chunk.js"
   ]
 }
