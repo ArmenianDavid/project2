@@ -4,6 +4,8 @@ import Slide from './Components/Slide';
 import Inform from './Components/inform';
 import AboutSite from './Components/AboutSite';
 import GifBlock from './Components/GifBlock';
+import TextBlock from './Components/TextBlock';
+import './App.css';
 
 
 function App() {
@@ -14,6 +16,7 @@ function App() {
        <Inform />
        <AboutSite />
        <GifBlock />
+      
      </div>
    )
 }

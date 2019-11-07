@@ -27,6 +27,9 @@ body{
   height: auto;
 }
 
+/* Text P */
+
+
 
 .carousel-caption{
   position: absolute;
@@ -47,6 +50,9 @@ body{
   
   .carousel-inner{
     height: auto;
+  }
+  .lead{
+    font-size: 3vw;
   }
 
 }
