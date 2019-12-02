@@ -29,15 +29,43 @@ const Slide = () =>{
          </div>
          <div class="carousel-item">
             <img src={honey_2} />
+
+            <div class="carousel-caption">
+               <h1 class="display-2">Honey</h1>
+               <h3> Natures finest work</h3>
+               <button type="button" class="btn btn-outline-light btn-lg "> Go to </button>
+               <button type="button" class="btn btn-warning btn-lg"> Demo </button>
+            </div>
          </div>
          <div class="carousel-item">
             <img src={honey_3} />
+
+            <div class="carousel-caption">
+               <h1 class="display-2">Honey</h1>
+               <h3> Natures finest work</h3>
+               <button type="button" class="btn btn-outline-light btn-lg "> Go to </button>
+               <button type="button" class="btn btn-warning btn-lg"> Demo </button>
+            </div>
          </div>
          <div class="carousel-item">
             <img src={honey_4} />
+
+            <div class="carousel-caption">
+               <h1 class="display-2">Honey</h1>
+               <h3> Natures finest work</h3>
+               <button type="button" class="btn btn-outline-light btn-lg "> Go to </button>
+               <button type="button" class="btn btn-warning btn-lg"> Demo </button>
+            </div>
          </div>
          <div class="carousel-item">
             <img src={honey_5} />
+
+            <div class="carousel-caption">
+               <h1 class="display-2">Honey</h1>
+               <h3> Natures finest work</h3>
+               <button type="button" class="btn btn-outline-light btn-lg "> Go to </button>
+               <button type="button" class="btn btn-warning btn-lg"> Demo </button>
+            </div>
          </div>
       </div>
     </div>
