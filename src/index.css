@@ -7,6 +7,10 @@ body {
     color: grey;
 }
 
+.flex {
+    display: flex;
+}
+
 .navbar-brand img {
     width: 110px;
 }
@@ -145,4 +149,49 @@ body {
 /* Footer */
 .bg-color {
     background-color: #3f2414;
+}
+@media (max-width: 400px) {
+    .footer-logo {
+        width: 95%;
+    }
+}
+
+/* About Honey */
+.small-img {
+    border-radius: 20px;
+    width: 100%;
+    max-height: auto;
+}
+.about-container {
+    padding: 2rem;
+}
+.about-container div {
+    width: 90%;
+    margin: 0 auto;
+}
+.flex .left-div {
+    width: 70%;
+}
+.flex .right-div {
+    width: 30%;
+}
+@media (max-width: 810px) {
+    .flex .left-div {
+        width: 50%;
+    }
+    .flex .right-div {
+        width: 50%;
+    }
+}
+@media (max-width: 500px) {
+    .flex {
+        display: flex;
+        flex-direction: column;
+    }
+    .flex .left-div {
+        width: 100%;
+    }
+    .flex .right-div {
+        width: 100%;
+    }
 }
