@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5966dacf9e0d44cc3b6c6a0452e62d54",
+    "revision": "f3ac8bf258121934f1953c0eb6ea4947",
     "url": "/honey/index.html"
   },
   {
-    "revision": "ce06902d98fd8c20315a",
-    "url": "/honey/static/css/main.697d8f16.chunk.css"
+    "revision": "9be01181f347d057c4b2",
+    "url": "/honey/static/css/main.901ca387.chunk.css"
   },
   {
-    "revision": "805a062842f112855129",
-    "url": "/honey/static/js/2.5f1ee78e.chunk.js"
+    "revision": "bd8beddfa2ca03c70d5f",
+    "url": "/honey/static/js/2.d0f2e647.chunk.js"
   },
   {
-    "revision": "ce06902d98fd8c20315a",
-    "url": "/honey/static/js/main.b9677e52.chunk.js"
+    "revision": "9be01181f347d057c4b2",
+    "url": "/honey/static/js/main.8cfb663d.chunk.js"
   },
   {
     "revision": "a687a5c25c4c508174a0",
@@ -22,22 +22,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1123e6a4ca5d041b05c09e7344552950",
     "url": "/honey/static/media/MyLogo.1123e6a4.png"
-  },
-  {
-    "revision": "e384973a23ab6dc7c8d6e36a432edaf4",
-    "url": "/honey/static/media/gif_1.e384973a.gif"
-  },
-  {
-    "revision": "5275c483a5472ade963467b067e2be9d",
-    "url": "/honey/static/media/gif_2.5275c483.gif"
-  },
-  {
-    "revision": "397241419ab0294f611fa96c2395af96",
-    "url": "/honey/static/media/gif_3.39724141.gif"
-  },
-  {
-    "revision": "bc72bddc5b6b6cde2b69ffd3c6025dbc",
-    "url": "/honey/static/media/gif_4.bc72bddc.gif"
   },
   {
     "revision": "faf4102d317a22fae3e6338b2685c7fb",
