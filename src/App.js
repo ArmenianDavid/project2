@@ -1,12 +1,11 @@
 import React from "react";
 // Pages
 import Home from "./Pages/Home";
+import AboutHoney from "./Pages/AboutHoney";
+import Bees from "./Pages/Bees";
+import Recipes from "./Pages/Recipes";
 // Components
 import Navbar from "./Components/Navbar";
-import Slide from "./Components/Slide";
-import Inform from "./Components/inform";
-import AboutSite from "./Components/AboutSite";
-import GifBlock from "./Components/GifBlock";
 import Footer from "./Components/Footer";
 import "./App.css";
 // Router Dom
@@ -18,17 +17,14 @@ class App extends React.Component {
             <Router>
                 <Navbar />
                 <Switch>
-                    <Route path="">
-                        <Slide />
+                    <Route path="/about-honey" exact>
+                        <AboutHoney />
                     </Route>
-                    <Route>
-                        <Inform />
+                    <Route path="/bees" exact>
+                        <Bees />
                     </Route>
-                    <Route>
-                        <AboutSite />
-                    </Route>
-                    <Route>
-                        <GifBlock />
+                    <Route path="/recipes" exact>
+                        <Recipes />
                     </Route>
                     <Route path="/">
                         <Home />
