@@ -1,6 +1,9 @@
 body {
     min-width: 320px;
 }
+.dark-orange {
+    color: #fca336;
+}
 
 .honey-color {
     color: #fcb836;
@@ -27,4 +30,11 @@ body {
 }
 .footer-logo-container {
     width: 100%;
+}
+
+/* BEES */
+.bees {
+    padding: 1rem;
+    width: 95%;
+    margin: 0 auto;
 }
