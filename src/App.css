@@ -1,3 +1,18 @@
+body {
+    min-width: 320px;
+}
+
+.honey-color {
+    color: #fcb836;
+}
+/* Heading */
+.heading-1 {
+    color: #fcb836;
+}
+.heading-2 {
+    color: #fcb836;
+}
+
 .text-block {
     font-size: 10px;
 }
@@ -9,4 +24,7 @@
 }
 .text-block footer ul li {
     font-size: 2em;
+}
+.footer-logo-container {
+    width: 100%;
 }

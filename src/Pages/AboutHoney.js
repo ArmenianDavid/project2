@@ -6,7 +6,7 @@ class AboutHoney extends React.Component {
         return (
             <div className="container-fluid about-container">
                 <div>
-                    <h2>ABOUT HONEY</h2>
+                    <h2 className="heading-2">ABOUT HONEY</h2>
                     <p>
                         The story of honey is older than history itself. An
                         8,000-year-old cave painting1 in Spain depicts honey

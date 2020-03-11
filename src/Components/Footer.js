@@ -7,7 +7,7 @@ const Footer = () => {
         <footer className="page-footer font-small blue pt-4 bg-color">
             <div className="container-fluid text-center text-md-left">
                 <div className="row">
-                    <div className="col-sd-12 col-md-6 mt-md-0 mt-3">
+                    <div className="col-sd-12 col-md-6 mt-md-0 mt-3 footer-logo-container">
                         <img src={logo} alt="logo" className="footer-logo" />
                     </div>
 
