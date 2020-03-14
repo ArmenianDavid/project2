@@ -33,6 +33,8 @@ const recipes = [
             `Scoop out 1” clusters of the mixture and roll  into a ball with your hands.  Then dip the bites in the finely chopped peanuts.  Place each ball on the sheet pan and chill in the refrigerator. `,
 
             `When the bites are chilled and set, store in an airtight container for up to a week.`
-        ]
+        ],
+        information: `Calories 214 kcal; Fat 13 g; Sat Fat 3 g; Carb 23 g; Protein 6 g; Fiber 4 g; Cholesterol 0 mg, Sodium 48 mg; Potassium 182 mg; Calcium 34 mg; Iron 1 mg; Vitamin D 1 mcg`,
+        tip: `You can substitute the peanuts, peanut butter powder and peanut butter for almonds, additional almond flour and almond butter.`
     }
 ];
