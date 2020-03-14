@@ -1,31 +1,36 @@
 {
   "files": {
-    "main.css": "/honey/static/css/main.79724487.chunk.css",
-    "main.js": "/honey/static/js/main.2e524e11.chunk.js",
-    "main.js.map": "/honey/static/js/main.2e524e11.chunk.js.map",
+    "main.css": "/honey/static/css/main.2e7950b0.chunk.css",
+    "main.js": "/honey/static/js/main.dccb44eb.chunk.js",
+    "main.js.map": "/honey/static/js/main.dccb44eb.chunk.js.map",
     "runtime-main.js": "/honey/static/js/runtime-main.d5c93e5a.js",
     "runtime-main.js.map": "/honey/static/js/runtime-main.d5c93e5a.js.map",
-    "static/js/2.1198cbe8.chunk.js": "/honey/static/js/2.1198cbe8.chunk.js",
-    "static/js/2.1198cbe8.chunk.js.map": "/honey/static/js/2.1198cbe8.chunk.js.map",
+    "static/js/2.3d4e8338.chunk.js": "/honey/static/js/2.3d4e8338.chunk.js",
+    "static/js/2.3d4e8338.chunk.js.map": "/honey/static/js/2.3d4e8338.chunk.js.map",
     "index.html": "/honey/index.html",
-    "precache-manifest.4bca4b5fd5b931799daec6ab1786e2b3.js": "/honey/precache-manifest.4bca4b5fd5b931799daec6ab1786e2b3.js",
+    "precache-manifest.1ec9514b3028203d3f009b7b9f9e94e8.js": "/honey/precache-manifest.1ec9514b3028203d3f009b7b9f9e94e8.js",
     "service-worker.js": "/honey/service-worker.js",
-    "static/css/main.79724487.chunk.css.map": "/honey/static/css/main.79724487.chunk.css.map",
+    "static/css/main.2e7950b0.chunk.css.map": "/honey/static/css/main.2e7950b0.chunk.css.map",
     "static/media/MyLogo.png": "/honey/static/media/MyLogo.1123e6a4.png",
+    "static/media/Recipe.css": "/honey/static/media/background.23716469.jpg",
     "static/media/banner1.jpg": "/honey/static/media/banner1.0a46c861.jpg",
     "static/media/banner2.jpg": "/honey/static/media/banner2.909135d6.jpg",
+    "static/media/banner3.jpg": "/honey/static/media/banner3.9c7e44b4.jpg",
     "static/media/index.css": "/honey/static/media/honeyBg.faf4102d.jpg",
     "static/media/honey_1.jpg": "/honey/static/media/honey_1.bea36ec7.jpg",
     "static/media/honey_2.jpg": "/honey/static/media/honey_2.9b757d14.jpg",
     "static/media/honey_3.jpg": "/honey/static/media/honey_3.96a9e1dc.jpg",
     "static/media/honey_4.jpg": "/honey/static/media/honey_4.3a627ccc.jpg",
     "static/media/honey_5.jpg": "/honey/static/media/honey_5.2e4aca20.jpg",
+    "static/media/recipe1.png": "/honey/static/media/recipe1.d42e3f84.png",
+    "static/media/recipe2.png": "/honey/static/media/recipe2.2684d9e7.png",
+    "static/media/recipe3.png": "/honey/static/media/recipe3.72bb8bf8.png",
     "static/media/small-img.jpeg": "/honey/static/media/small-img.d70a53b1.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.d5c93e5a.js",
-    "static/js/2.1198cbe8.chunk.js",
-    "static/css/main.79724487.chunk.css",
-    "static/js/main.2e524e11.chunk.js"
+    "static/js/2.3d4e8338.chunk.js",
+    "static/css/main.2e7950b0.chunk.css",
+    "static/js/main.dccb44eb.chunk.js"
   ]
 }
