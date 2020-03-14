@@ -1,14 +1,15 @@
 import React from "react";
 // images
-import recipe1 from "../../img/recipe1";
-import recipe2 from "../../img/recipe2";
-import recipe3 from "../../img/recipe3";
+import recipe1 from "../../img/recipe1.png";
+import recipe2 from "../../img/recipe2.png";
+import recipe3 from "../../img/recipe3.png";
 
 export const recipes = [
     {
         id: 1,
-        img: { image: recipe1 },
-        yield: `Makes 2 servings`,
+        name: "Tropical Smoothie Bowl",
+        img: recipe1,
+        output: `Makes 2 servings`,
         ingredients: [
             "1 - banana, cut into large chunks, frozen",
             "1 cup - plain Greek yogurt",
@@ -26,8 +27,9 @@ export const recipes = [
     },
     {
         id: 2,
-        img: { image: recipe2 },
-        yield: `Makes about 2.5 quarts of cereal clusters`,
+        name: "DIY Honey Nut Puffed Cereal",
+        img: recipe2,
+        output: `Makes about 2.5 quarts of cereal clusters`,
         ingredients: [
             "4 1/2 cups - puffed rice",
             "1 cup - sliced almonds",
@@ -61,8 +63,9 @@ export const recipes = [
     },
     {
         id: 3,
-        img: { image: recipe3 },
-        yield: `Makes 15 servings, each serving is 2 bites`,
+        name: "No Bake Chocolate Peanut Butter Energy Bites",
+        img: recipe3,
+        output: `Makes 15 servings, each serving is 2 bites`,
         ingredients: [
             "1/2 cup - peanuts, finely chopped",
             " 1 1/2 cup - old fashioned oats, divided",

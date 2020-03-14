@@ -56,6 +56,9 @@ body {
     .lead {
         font-size: 3vw;
     }
+    .navbar-brand img {
+        width: 140px;
+    }
 }
 
 @media (max-width: 360px) {
@@ -68,6 +71,9 @@ body {
     }
     .btn {
         font-size: 7px;
+    }
+    .navbar-brand img {
+        width: 140px;
     }
 }
 
