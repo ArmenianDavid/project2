@@ -2,6 +2,16 @@
     margin: 0 auto;
     width: 100%;
 }
+.recipes-heading {
+    text-align: center;
+}
+.recipes-heading h2 {
+    font-size: 3rem;
+    padding: 1rem 0.5rem;
+    color: #ffffff;
+    background: #ffffff;
+    text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+}
 .recipe {
     width: 80%;
     margin: 0 auto;
@@ -11,6 +21,13 @@
     width: 100%;
 }
 .recipe-name {
-    color: white;
-    text-shadow: 2px 2px whitesmoke;
+    color: #ffffff;
+    text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+}
+.recipe-name-container {
+    background-image: url(../../img/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
 }

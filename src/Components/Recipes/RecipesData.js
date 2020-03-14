@@ -63,7 +63,7 @@ export const recipes = [
     },
     {
         id: 3,
-        name: "No Bake Chocolate Peanut Butter Energy Bites",
+        name: "Chocolate PB Energy Bites",
         img: recipe3,
         output: `Makes 15 servings, each serving is 2 bites`,
         ingredients: [

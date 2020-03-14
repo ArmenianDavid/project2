@@ -12,8 +12,11 @@ const Recipe = ({
     tip
 }) => {
     return (
-        <div className="recipe-container">
-            <div className="recipe">
+        <div className="recipe-container ">
+            <div
+                className="recipe pointer"
+                onClick={() => console.log("i am clicked")}
+            >
                 <div>
                     <img src={img} alt="recipe-img" className="recipe-img" />
                 </div>

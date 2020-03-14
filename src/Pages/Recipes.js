@@ -10,6 +10,10 @@ class Recipes extends React.Component {
         return (
             <div>
                 <Banner img={banner3} alt="banner3-img" />
+                <div className="recipes-heading">
+                    <h2>Most Popular Recipes</h2>
+                </div>
+
                 <div className="recipes-container">
                     {recipes.map(item => {
                         return (
