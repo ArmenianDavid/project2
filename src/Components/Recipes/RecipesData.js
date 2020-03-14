@@ -4,9 +4,64 @@ import recipe1 from "../../img/recipe1";
 import recipe2 from "../../img/recipe2";
 import recipe3 from "../../img/recipe3";
 
-const recipes = [
+export const recipes = [
     {
+        id: 1,
         img: { image: recipe1 },
+        yield: `Makes 2 servings`,
+        ingredients: [
+            "1 - banana, cut into large chunks, frozen",
+            "1 cup - plain Greek yogurt",
+            "1 cup - coconut milk",
+            "1/4 cup - honey",
+            "1/2 cup - frozen pineapple chunks"
+        ],
+        directions: [
+            `Blend the frozen fruit, yogurt, coconut milk and honey until smooth and divide between two bowls.`,
+
+            `Top each bowl with the fresh fruit, toasted coconut, macadamia nuts and chia seeds, eat immediately`
+        ],
+        information: `Calories 214 kcal; Fat 13 g; Sat Fat 3 g; Carb 23 g; Protein 6 g; Fiber 4 g; Cholesterol 0 mg, Sodium 48 mg; Potassium 182 mg; Calcium 34 mg; Iron 1 mg; Vitamin D 1 mcg`,
+        tip: `You can add a scoop of protein powder to the blender to keep the hunger cravings at bay even longer.`
+    },
+    {
+        id: 2,
+        img: { image: recipe2 },
+        yield: `Makes about 2.5 quarts of cereal clusters`,
+        ingredients: [
+            "4 1/2 cups - puffed rice",
+            "1 cup - sliced almonds",
+            "1 1/4 tsp. - ground tumeric",
+            "1/2 tsp. - cinnamon",
+            "1/3 tsp. - kosher salt",
+            "1/4 cup - light brown sugar, lightly packed",
+            "2 T + 1 tsp. (32g) - unsalted butter",
+            "1/3 cup - honey",
+            "1/2 tsp. - baking soda",
+            "1 T - raw sesame seeds"
+        ],
+        directions: [
+            `Heat the oven to 325°F.`,
+
+            `Line a rimmed baking sheet with parchment and set aside.`,
+
+            `In a large heatproof bowl, combine the puffed rice, almonds, turmeric, cinnamon and salt. `,
+
+            `In a small pot, stirring occasionally, heat the brown sugar, butter and honey, until they have been simmering in slow, steady large bubbles for 1 - 2 minutes (roughly 250°F). `,
+
+            `Remove from heat and whisk in the baking soda. Immediately pour the mixture over the dry ingredients. Stir well with a wood spoon, making sure to mix in all the spices and seeds that have fallen to the bottom of the bowl, and then spread the mixture on the prepared baking sheet.`,
+
+            `Bake for 15 minutes, stirring halfway through. Allow to cool completely at room temperature. Break the pieces and place into an airtight container to store.`,
+
+            `Serve with your milk of choice, which will become "Golden Milk" when mixed with the cereal!`,
+
+            `Recipe courtesy of Chef Jessica Koslow, made for the National Honey Board`
+        ],
+        tip: `Instead of puffed rice, you can substitute other puffed grains like millet.`
+    },
+    {
+        id: 3,
+        img: { image: recipe3 },
         yield: `Makes 15 servings, each serving is 2 bites`,
         ingredients: [
             "1/2 cup - peanuts, finely chopped",
