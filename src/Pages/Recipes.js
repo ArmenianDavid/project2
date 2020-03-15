@@ -6,7 +6,6 @@ import banner3 from "../img/banner3.jpg";
 
 class Recipes extends React.Component {
     render() {
-        console.log("Recipes --", recipes);
         return (
             <div>
                 <Banner img={banner3} alt="banner3-img" />
