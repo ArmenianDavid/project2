@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/honey/static/css/main.67528246.chunk.css",
-    "main.js": "/honey/static/js/main.b9b72ee2.chunk.js",
-    "main.js.map": "/honey/static/js/main.b9b72ee2.chunk.js.map",
+    "main.css": "/honey/static/css/main.53e3edb1.chunk.css",
+    "main.js": "/honey/static/js/main.c952c959.chunk.js",
+    "main.js.map": "/honey/static/js/main.c952c959.chunk.js.map",
     "runtime-main.js": "/honey/static/js/runtime-main.d5c93e5a.js",
     "runtime-main.js.map": "/honey/static/js/runtime-main.d5c93e5a.js.map",
     "static/js/2.2df16034.chunk.js": "/honey/static/js/2.2df16034.chunk.js",
     "static/js/2.2df16034.chunk.js.map": "/honey/static/js/2.2df16034.chunk.js.map",
     "index.html": "/honey/index.html",
-    "precache-manifest.9d65ce6845a7ca11fa4d689bb1dd2cdb.js": "/honey/precache-manifest.9d65ce6845a7ca11fa4d689bb1dd2cdb.js",
+    "precache-manifest.f7bce6dd3fde0a3141077e93afd4a589.js": "/honey/precache-manifest.f7bce6dd3fde0a3141077e93afd4a589.js",
     "service-worker.js": "/honey/service-worker.js",
-    "static/css/main.67528246.chunk.css.map": "/honey/static/css/main.67528246.chunk.css.map",
+    "static/css/main.53e3edb1.chunk.css.map": "/honey/static/css/main.53e3edb1.chunk.css.map",
+    "static/media/Error.css": "/honey/static/media/404.5e771a94.jpg",
     "static/media/MyLogo.png": "/honey/static/media/MyLogo.1123e6a4.png",
     "static/media/Recipe.css": "/honey/static/media/background.23716469.jpg",
     "static/media/banner1.jpg": "/honey/static/media/banner1.0a46c861.jpg",
@@ -31,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.d5c93e5a.js",
     "static/js/2.2df16034.chunk.js",
-    "static/css/main.67528246.chunk.css",
-    "static/js/main.b9b72ee2.chunk.js"
+    "static/css/main.53e3edb1.chunk.css",
+    "static/js/main.c952c959.chunk.js"
   ]
 }
