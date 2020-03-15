@@ -11,6 +11,10 @@ body {
     display: flex;
 }
 
+.nav-link {
+    text-decoration: none;
+}
+
 .navbar-brand img {
     width: 110px;
 }

@@ -5,6 +5,7 @@ import AboutHoney from "./Pages/AboutHoney";
 import Bees from "./Pages/Bees";
 import Recipes from "./Pages/Recipes";
 import SingleRecipe from "./Pages/SingleRecipe";
+import Error from "./Pages/Error";
 // Components
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
@@ -33,8 +34,11 @@ class App extends React.Component {
                         children={<SingleRecipe />}
                         exact
                     ></Route>
-                    <Route path="/">
+                    <Route path="/" exact>
                         <Home />
+                    </Route>
+                    <Route>
+                        <Error />
                     </Route>
                 </Switch>
                 <Footer />

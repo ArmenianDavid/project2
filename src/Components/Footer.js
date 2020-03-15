@@ -18,7 +18,7 @@ const Footer = () => {
 
                         <ul className="list-unstyled">
                             <li>
-                                <Link to="/home" className="nav-link active">
+                                <Link to="/" className="nav-link active">
                                     {" "}
                                     Home{" "}
                                 </Link>

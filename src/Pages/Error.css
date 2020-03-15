@@ -1,0 +1,78 @@
+.line {
+    width: 10rem;
+    height: 5px;
+    background: grey;
+    margin: 2rem auto;
+}
+.background {
+    min-height: calc(100vh - 66px);
+    background: url(../img/404.jpg) center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.error-container {
+    width: 100%;
+    margin: 0 auto;
+}
+.error {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 2.5rem;
+}
+.error h1 {
+    font-size: 4rem;
+}
+.error h1 {
+    color: #ffffff;
+    text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+    text-transform: uppercase;
+}
+.error p {
+    color: #ffffff;
+    text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+    text-transform: uppercase;
+}
+.error a {
+    text-decoration: none;
+}
+
+.myButton {
+    box-shadow: inset 0px 1px 0px 0px #ffffff;
+    background: linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+    background-color: #ffffff;
+    border-radius: 6px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    cursor: pointer;
+    color: #666666;
+    font-family: Arial;
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #ffffff;
+}
+.myButton:hover {
+    background: linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+    background-color: #f6f6f6;
+}
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+@media only screen and (max-width: 700px) {
+    .myButton {
+        font-size: 2rem;
+    }
+    .error {
+        width: 70%;
+        margin: 0 auto;
+        text-align: center;
+        font-size: 1.5rem;
+    }
+    .error h1 {
+        font-size: 3rem;
+    }
+}
