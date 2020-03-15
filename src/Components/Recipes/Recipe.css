@@ -34,3 +34,39 @@
 .recipe-link:hover {
     text-decoration: none;
 }
+
+/* Extended Recipe */
+.extended-recipe-container {
+    width: 100%;
+}
+.extended-recipe {
+    -webkit-box-shadow: 11px 28px 58px 9px rgba(0, 0, 0, 0.48);
+    -moz-box-shadow: 11px 28px 58px 9px rgba(0, 0, 0, 0.48);
+    box-shadow: 11px 28px 58px 9px rgba(0, 0, 0, 0.48);
+    background: #f7c1c1;
+    width: 95%;
+    margin: 1rem auto;
+    padding: 0.5rem;
+}
+.extended-recipe-heading {
+    color: #ffffff;
+    text-shadow: 4px 3px 0px #7a7a7a;
+    text-align: left;
+}
+.image-container {
+    width: 100%;
+}
+.extended-recipe-img {
+    width: 50%;
+}
+.titles {
+    font-size: 1.3rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 0.2rem;
+    margin-block-end: 0.2rem;
+}
+.text {
+    margin-block-start: 0.5rem;
+    margin-block-end: 0.5rem;
+}
