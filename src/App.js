@@ -4,10 +4,12 @@ import Home from "./Pages/Home";
 import AboutHoney from "./Pages/AboutHoney";
 import Bees from "./Pages/Bees";
 import Recipes from "./Pages/Recipes";
+import SingleRecipe from "./Pages/SingleRecipe";
 // Components
 import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 import "./App.css";
+
 // Router Dom
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
@@ -26,6 +28,11 @@ class App extends React.Component {
                     <Route path="/recipes" exact>
                         <Recipes />
                     </Route>
+                    <Route
+                        path="/recipes/:id"
+                        children={<SingleRecipe />}
+                        exact
+                    ></Route>
                     <Route path="/">
                         <Home />
                     </Route>

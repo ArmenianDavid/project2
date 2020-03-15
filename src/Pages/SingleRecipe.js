@@ -1,7 +1,9 @@
 import React from "react";
+import { useParams } from "react-router-dom";
 
 const SingleRecipe = () => {
-    return <div>Hello from SingleRecipe</div>;
+    let { id } = useParams();
+    return <div>Hello from SingleRecipe {id}</div>;
 };
 
 export default SingleRecipe;
