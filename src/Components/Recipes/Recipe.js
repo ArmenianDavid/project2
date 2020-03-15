@@ -14,7 +14,7 @@ const Recipe = ({
 }) => {
     return (
         <div className="recipe-container ">
-            <Link to={`/recipes/${id}`}>
+            <Link to={`/recipes/${id}`} className="recipe-link">
                 <div className="recipe pointer">
                     <div>
                         <img
