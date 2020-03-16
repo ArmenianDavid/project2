@@ -1,4 +1,3 @@
-import React from "react";
 // images
 import recipe1 from "../../img/recipe1.png";
 import recipe2 from "../../img/recipe2.png";
