@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/honey/static/css/main.53e3edb1.chunk.css",
-    "main.js": "/honey/static/js/main.c952c959.chunk.js",
-    "main.js.map": "/honey/static/js/main.c952c959.chunk.js.map",
+    "main.css": "/honey/static/css/main.228f559c.chunk.css",
+    "main.js": "/honey/static/js/main.49bbd4fa.chunk.js",
+    "main.js.map": "/honey/static/js/main.49bbd4fa.chunk.js.map",
     "runtime-main.js": "/honey/static/js/runtime-main.d5c93e5a.js",
     "runtime-main.js.map": "/honey/static/js/runtime-main.d5c93e5a.js.map",
     "static/js/2.2df16034.chunk.js": "/honey/static/js/2.2df16034.chunk.js",
     "static/js/2.2df16034.chunk.js.map": "/honey/static/js/2.2df16034.chunk.js.map",
     "index.html": "/honey/index.html",
-    "precache-manifest.f7bce6dd3fde0a3141077e93afd4a589.js": "/honey/precache-manifest.f7bce6dd3fde0a3141077e93afd4a589.js",
+    "precache-manifest.13c00e159396f78dbef6cea4c08e7d7b.js": "/honey/precache-manifest.13c00e159396f78dbef6cea4c08e7d7b.js",
     "service-worker.js": "/honey/service-worker.js",
-    "static/css/main.53e3edb1.chunk.css.map": "/honey/static/css/main.53e3edb1.chunk.css.map",
+    "static/css/main.228f559c.chunk.css.map": "/honey/static/css/main.228f559c.chunk.css.map",
     "static/media/Error.css": "/honey/static/media/404.5e771a94.jpg",
     "static/media/MyLogo.png": "/honey/static/media/MyLogo.1123e6a4.png",
     "static/media/Recipe.css": "/honey/static/media/background.23716469.jpg",
@@ -18,7 +18,6 @@
     "static/media/banner2.jpg": "/honey/static/media/banner2.909135d6.jpg",
     "static/media/banner3.jpg": "/honey/static/media/banner3.9c7e44b4.jpg",
     "static/media/banner4.jpg": "/honey/static/media/banner4.ffaee2df.jpg",
-    "static/media/index.css": "/honey/static/media/honeyBg.faf4102d.jpg",
     "static/media/honey_1.jpg": "/honey/static/media/honey_1.bea36ec7.jpg",
     "static/media/honey_2.jpg": "/honey/static/media/honey_2.9b757d14.jpg",
     "static/media/honey_3.jpg": "/honey/static/media/honey_3.96a9e1dc.jpg",
@@ -32,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.d5c93e5a.js",
     "static/js/2.2df16034.chunk.js",
-    "static/css/main.53e3edb1.chunk.css",
-    "static/js/main.c952c959.chunk.js"
+    "static/css/main.228f559c.chunk.css",
+    "static/js/main.49bbd4fa.chunk.js"
   ]
 }

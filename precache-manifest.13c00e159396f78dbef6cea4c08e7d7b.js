@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6347bc37a8ae6e2c932b4e1d4aae69b",
+    "revision": "dc038eb103f622604222c19a1d72660d",
     "url": "/honey/index.html"
   },
   {
-    "revision": "1b27e4f8bde830411832",
-    "url": "/honey/static/css/main.53e3edb1.chunk.css"
+    "revision": "f794fa3068f2a9682f27",
+    "url": "/honey/static/css/main.228f559c.chunk.css"
   },
   {
     "revision": "058a60d2c68423a1e9ca",
     "url": "/honey/static/js/2.2df16034.chunk.js"
   },
   {
-    "revision": "1b27e4f8bde830411832",
-    "url": "/honey/static/js/main.c952c959.chunk.js"
+    "revision": "f794fa3068f2a9682f27",
+    "url": "/honey/static/js/main.49bbd4fa.chunk.js"
   },
   {
     "revision": "a687a5c25c4c508174a0",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ffaee2df3c260d0de7ecd3c541f07243",
     "url": "/honey/static/media/banner4.ffaee2df.jpg"
-  },
-  {
-    "revision": "faf4102d317a22fae3e6338b2685c7fb",
-    "url": "/honey/static/media/honeyBg.faf4102d.jpg"
   },
   {
     "revision": "bea36ec7b2dc9b1b8fc7e646378032b1",
