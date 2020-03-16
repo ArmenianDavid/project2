@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc038eb103f622604222c19a1d72660d",
+    "revision": "fc2949bbbdf1b8696cd0d0f4525f2e1a",
     "url": "/honey/index.html"
   },
   {
-    "revision": "f794fa3068f2a9682f27",
+    "revision": "8168731df2af81d5e317",
     "url": "/honey/static/css/main.228f559c.chunk.css"
   },
   {
-    "revision": "058a60d2c68423a1e9ca",
-    "url": "/honey/static/js/2.2df16034.chunk.js"
+    "revision": "16c0132eb0c1a247ec9d",
+    "url": "/honey/static/js/2.d7e96472.chunk.js"
   },
   {
-    "revision": "f794fa3068f2a9682f27",
-    "url": "/honey/static/js/main.49bbd4fa.chunk.js"
+    "revision": "8168731df2af81d5e317",
+    "url": "/honey/static/js/main.36fac612.chunk.js"
   },
   {
     "revision": "a687a5c25c4c508174a0",
