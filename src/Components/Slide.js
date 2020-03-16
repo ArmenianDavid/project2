@@ -12,12 +12,28 @@ const Slide = () => {
                 <li
                     data-target="#slide"
                     data-slide-to="0"
-                    className="active"
+                    className="active indicator"
                 ></li>
-                <li data-target="#slide" data-slide-to="1"></li>
-                <li data-target="#slide" data-slide-to="2"></li>
-                <li data-target="#slide" data-slide-to="3"></li>
-                <li data-target="#slide" data-slide-to="4"></li>
+                <li
+                    data-target="#slide"
+                    data-slide-to="1"
+                    className="indicator"
+                ></li>
+                <li
+                    data-target="#slide"
+                    data-slide-to="2"
+                    className="indicator"
+                ></li>
+                <li
+                    data-target="#slide"
+                    data-slide-to="3"
+                    className="indicator"
+                ></li>
+                <li
+                    data-target="#slide"
+                    data-slide-to="4"
+                    className="indicator"
+                ></li>
             </ul>
             <div className="carousel-caption">
                 <h1 className="display-2">Honey</h1>
