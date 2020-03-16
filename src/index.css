@@ -94,18 +94,6 @@ body {
     padding-bottom: 2em;
 }
 
-.alert {
-    width: 75%;
-    margin: 0 auto;
-    padding-top: 2em;
-}
-.alert hr {
-    border-top: 2px solid black;
-    width: 95%;
-    margin-top: 0.3em;
-    margin-bottom: 1em;
-}
-
 .img-fluid {
     border-radius: 20%;
 }

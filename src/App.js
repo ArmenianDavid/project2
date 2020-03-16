@@ -12,7 +12,12 @@ import Footer from "./Components/Footer";
 import "./App.css";
 
 // Router Dom
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import {
+    BrowserRouter as Router,
+    Switch,
+    Route,
+    Redirect
+} from "react-router-dom";
 
 class App extends React.Component {
     render() {
@@ -34,6 +39,9 @@ class App extends React.Component {
                         children={<SingleRecipe />}
                         exact
                     ></Route>
+                    <Route exact path="/honey">
+                        <Redirect to="/" />
+                    </Route>
                     <Route path="/" exact>
                         <Home />
                     </Route>
