@@ -9,7 +9,7 @@ import banner4 from "../img/banner4.jpg";
 const SingleRecipe = () => {
     let { id } = useParams();
 
-    const item = recipes.find(item => item.id === Number(id));
+    const item = recipes.find((item) => item.id === Number(id));
 
     return (
         <div>
