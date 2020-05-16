@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/honey/static/css/main.128fd28d.chunk.css",
-    "main.js": "/honey/static/js/main.910988b2.chunk.js",
-    "main.js.map": "/honey/static/js/main.910988b2.chunk.js.map",
+    "main.css": "/honey/static/css/main.18539bf5.chunk.css",
+    "main.js": "/honey/static/js/main.21e63860.chunk.js",
+    "main.js.map": "/honey/static/js/main.21e63860.chunk.js.map",
     "runtime-main.js": "/honey/static/js/runtime-main.d5c93e5a.js",
     "runtime-main.js.map": "/honey/static/js/runtime-main.d5c93e5a.js.map",
-    "static/js/2.d7e96472.chunk.js": "/honey/static/js/2.d7e96472.chunk.js",
-    "static/js/2.d7e96472.chunk.js.map": "/honey/static/js/2.d7e96472.chunk.js.map",
+    "static/js/2.a40202c4.chunk.js": "/honey/static/js/2.a40202c4.chunk.js",
+    "static/js/2.a40202c4.chunk.js.map": "/honey/static/js/2.a40202c4.chunk.js.map",
     "index.html": "/honey/index.html",
-    "precache-manifest.7d5b39e99a6d67938703f82d28495d3e.js": "/honey/precache-manifest.7d5b39e99a6d67938703f82d28495d3e.js",
+    "precache-manifest.5ec1c3f119a407ee1ae7157f831af7e7.js": "/honey/precache-manifest.5ec1c3f119a407ee1ae7157f831af7e7.js",
     "service-worker.js": "/honey/service-worker.js",
-    "static/css/main.128fd28d.chunk.css.map": "/honey/static/css/main.128fd28d.chunk.css.map",
+    "static/css/main.18539bf5.chunk.css.map": "/honey/static/css/main.18539bf5.chunk.css.map",
     "static/media/Error.css": "/honey/static/media/404.d49ea84d.jpg",
     "static/media/MyLogo.png": "/honey/static/media/MyLogo.1123e6a4.png",
     "static/media/Recipe.css": "/honey/static/media/background.23716469.jpg",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d5c93e5a.js",
-    "static/js/2.d7e96472.chunk.js",
-    "static/css/main.128fd28d.chunk.css",
-    "static/js/main.910988b2.chunk.js"
+    "static/js/2.a40202c4.chunk.js",
+    "static/css/main.18539bf5.chunk.css",
+    "static/js/main.21e63860.chunk.js"
   ]
 }
